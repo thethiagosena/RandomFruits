@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cloud\\OneDrive\\Documents\\Git\\Projects\\C\u002B\u002B\\Random Fruits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE9BD04-8B27-43F8-A2BB-2B8C34BC907A}|RandomFruits\\RandomFruits.vcxproj|D:\\Cloud\\OneDrive\\Documents\\Git\\Projects\\C\u002B\u002B\\Random Fruits\\RandomFruits\\RandomFruits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDE9BD04-8B27-43F8-A2BB-2B8C34BC907A}|RandomFruits\\RandomFruits.vcxproj|solutionrelative:RandomFruits\\RandomFruits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomFruits.cpp",
+              "DocumentMoniker": "D:\\Cloud\\OneDrive\\Documents\\Git\\Projects\\C\u002B\u002B\\Random Fruits\\RandomFruits\\RandomFruits.cpp",
+              "RelativeDocumentMoniker": "RandomFruits\\RandomFruits.cpp",
+              "ToolTip": "D:\\Cloud\\OneDrive\\Documents\\Git\\Projects\\C\u002B\u002B\\Random Fruits\\RandomFruits\\RandomFruits.cpp",
+              "RelativeToolTip": "RandomFruits\\RandomFruits.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T14:38:15.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
